@@ -1,0 +1,103 @@
+docs/data.json
+{
+  "updated_at_kst": "2026-05-26 14:48:18 KST",
+  "baseline_date": "2026-05-22",
+  "stocks": [
+    {
+      "name": "KODEX 200선물인버스2X",
+      "code": "252670",
+      "market": "ETF",
+      "baseline_close": 102,
+      "news_keywords": [
+        "KODEX 200선물인버스2X",
+        "코스피200 선물 인버스",
+        "인버스 ETF",
+        "코스피 하락"
+      ],
+      "news_query": "KODEX 200선물인버스2X 코스피200 선물 인버스 인버스 ETF 코스피 하락",
+      "news": [],
+      "summary": "네이버 뉴스 API 키가 없거나 검색 결과가 없어 자동 요약을 표시하지 못했습니다. 뉴스 검색 링크를 확인하세요.",
+      "return_pct": null,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Authority Key Identifier (_ssl.c:1032)>",
+      "price_date": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "source": null
+    },
+    {
+      "name": "성광벤드",
+      "code": "014620",
+      "market": "KOSDAQ",
+      "baseline_close": 36250,
+      "news_keywords": [
+        "성광벤드",
+        "LNG",
+        "조선 기자재",
+        "피팅"
+      ],
+      "news_query": "성광벤드 LNG 조선 기자재 피팅",
+      "news": [],
+      "summary": "네이버 뉴스 API 키가 없거나 검색 결과가 없어 자동 요약을 표시하지 못했습니다. 뉴스 검색 링크를 확인하세요.",
+      "return_pct": null,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Authority Key Identifier (_ssl.c:1032)>",
+      "price_date": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "source": null
+    },
+    {
+      "name": "신테카바이오",
+      "code": "226330",
+      "market": "KOSDAQ",
+      "baseline_close": 2505,
+      "news_keywords": [
+        "신테카바이오",
+        "AI 신약",
+        "바이오",
+        "유전체"
+      ],
+      "news_query": "신테카바이오 AI 신약 바이오 유전체",
+      "news": [],
+      "summary": "네이버 뉴스 API 키가 없거나 검색 결과가 없어 자동 요약을 표시하지 못했습니다. 뉴스 검색 링크를 확인하세요.",
+      "return_pct": null,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Authority Key Identifier (_ssl.c:1032)>",
+      "price_date": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "source": null
+    },
+    {
+      "name": "화신",
+      "code": "010690",
+      "market": "KOSPI",
+      "baseline_close": 12730,
+      "news_keywords": [
+        "화신",
+        "자동차 부품",
+        "현대차",
+        "전기차 부품"
+      ],
+      "news_query": "화신 자동차 부품 현대차 전기차 부품",
+      "news": [],
+      "summary": "네이버 뉴스 API 키가 없거나 검색 결과가 없어 자동 요약을 표시하지 못했습니다. 뉴스 검색 링크를 확인하세요.",
+      "return_pct": null,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Authority Key Identifier (_ssl.c:1032)>",
+      "price_date": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "source": null
+    }
+  ]
+}
