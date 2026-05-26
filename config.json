@@ -1,0 +1,36 @@
+{
+  "title": "관심종목 대시보드",
+  "subtitle": "2026-05-22 종가 대비 수익률",
+  "timezone": "Asia/Seoul",
+  "baseline_date": "2026-05-22",
+  "stocks": [
+    {
+      "name": "KODEX 200선물인버스2X",
+      "code": "252670",
+      "market": "KOSPI",
+      "baseline_close": 102,
+      "news_keywords": ["KODEX 200선물인버스2X", "코스피 인버스", "선물 인버스 ETF"]
+    },
+    {
+      "name": "성광벤드",
+      "code": "014620",
+      "market": "KOSDAQ",
+      "baseline_close": 36250,
+      "news_keywords": ["성광벤드", "LNG", "피팅", "조선 기자재"]
+    },
+    {
+      "name": "신테카바이오",
+      "code": "226330",
+      "market": "KOSDAQ",
+      "baseline_close": 2505,
+      "news_keywords": ["신테카바이오", "AI 신약", "바이오", "유전체"]
+    },
+    {
+      "name": "화신",
+      "code": "010690",
+      "market": "KOSPI",
+      "baseline_close": 12730,
+      "news_keywords": ["화신", "자동차 부품", "현대차", "전기차 부품"]
+    }
+  ]
+}
